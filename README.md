@@ -9,7 +9,7 @@ This bash script facilitates the quick creation of a new Vite project with React
 
 ## Usage
 
-1. Download the `start-vite-project.sh` script.
+1. Download the `Scaffy-React.sh` script.
 2. Open a terminal and navigate to the directory where the script is located.
 3. Give execute permissions to the script with the following command:
 
