@@ -14,13 +14,13 @@ This bash script facilitates the quick creation of a new Vite project with React
 3. Give execute permissions to the script with the following command:
 
 ```bash
-chmod +x start-vite-project.sh
+chmod +x Scaffy-React.sh
 ```
 
 4. Run the script from the directory where you want to create your project using:
 
 ```bash
-<relative path>/start-vite-project.sh
+<relative path>/Scaffy-React.sh
 ```
 
 5. Follow the on-screen instructions to provide details about your project, such as the name, the number of folders for components and pages, and options for default layout and router.
